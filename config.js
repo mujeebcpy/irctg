@@ -1,10 +1,10 @@
 module.exports = {
   tg: {
-    "-1234567": ["freenode", "#test"]
+    "1051708563": ["freenode", "#telegramam"]
   },
   irc: {
     freenode: {
-      "#test": "-1234567"
+      "#telegramam": "1051708563"
     }
   }
 }
